@@ -412,6 +412,11 @@
     margin-bottom: 25rem;
 }
 
+.service-navigation__list {
+    text-decoration: none;
+    list-style: none;
+}
+
 .service-navigation__link {
     color: #404254;
     font-size: 14rem;
